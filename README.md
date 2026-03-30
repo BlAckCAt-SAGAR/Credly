@@ -132,7 +132,3 @@ Free API keys: [Groq](https://console.groq.com) · [Tavily](https://tavily.com)
 
 ---
 
-## Team
-
-**Team Name:** Clueless Coders  
-**Team Lead:** Krishna
